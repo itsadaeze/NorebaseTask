@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+<h1>Norebase Task</h1>
+<h6><i>Creating a simple web app that displays information on cryptocurrency coin prices.</i></h6>
+<hr />
+</div>
+![Project Screenshot](/src/assets/project.png)
+# Technologies 
 
-## Getting Started
+ + [NextJs](https://nextjs.org/)
+ + [TailwindCss](https://tailwindcss.com/) 
+ + [Typescript](https://www.typescriptlang.org/) 
+ + [Github Actions](https://docs.github.com/en/actions/)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Prototype
+![Minion](/src/assets/project.png)
+ 
+# How to Contribute
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository
+ `git clone https://github.com/itsadaeze/NorebaseTask.git`
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Change directory into the `cloned folder ` and run the setup script 
+ `cd  norebase-task`
 
-## Learn More
+3. Open your terminal and type this command `npm install ` to add the react dependency to the app in the development mode.
 
-To learn more about Next.js, take a look at the following resources:
+4. After the Successful installation of the  dependency type/copy this command  `npm run dev` to run the app in your local environment 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Copy this link  [http://localhost:3000/](http://localhost:3000/) and paste it to your web browser(Chrome, safari, mozilla firefox et.c) to view it.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+# Deployment
+Vercel was used to deploy the app. 
+ + [Vercel](https://norebase-task.vercel.app/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# License
+The MIT License - Copyright (c) 2024 - Present, itsadaeze / Storage Service.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Author
+Ugwu Adaeze (Software Developer)
