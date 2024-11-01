@@ -7,8 +7,8 @@ import projectImage from '/src/assets/project.png';
 <h6><i>Creating a simple web app that displays information on cryptocurrency coin prices.</i></h6>
 <hr />
 </div>
-<img src={projectImage} alt="Project Screenshot" />
-
+<!-- <img src={projectImage} alt="Project Screenshot" /> -->
+![Project Screenshot](./src/assets/project.png)
 <br/>
 # Technologies 
 
