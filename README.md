@@ -1,15 +1,14 @@
-import projectImage from '/src/assets/project.png';
-
-
 
 <div align="center">
 <h1>Norebase Task</h1>
 <h6><i>Creating a simple web app that displays information on cryptocurrency coin prices.</i></h6>
 <hr />
 </div>
-<!-- <img src={projectImage} alt="Project Screenshot" /> -->
-![Project Screenshot](./src/assets/project.png)
-<br/>
+
+
+# Prototype
+![Minion](public/project.png)
+
 # Technologies 
 
  + [NextJs](https://nextjs.org/)
