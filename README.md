@@ -3,7 +3,7 @@
 <h6><i>Creating a simple web app that displays information on cryptocurrency coin prices.</i></h6>
 <hr />
 </div>
-![Project Screenshot](/assets/project.png)
+![Project Screenshot](/src/assets/project.png)
 
 <br/>
 # Technologies 
