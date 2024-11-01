@@ -1,4 +1,4 @@
-import projectImage from '../src/assets/project.png';
+import projectImage from '/src/assets/project.png';
 
 
 
