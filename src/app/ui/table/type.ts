@@ -10,7 +10,7 @@ export interface ICoinData {
 
 export interface IAssetTable {
   styles?: string;
-  colmumHeads: Array<'Coin' | 'Code' | 'Price' | 'Total Supply'>; // Note the space here
+  colmumHeads: Array<'Coin' | 'Code' | 'Price' | 'Total Supply'>; 
 }
 
 
