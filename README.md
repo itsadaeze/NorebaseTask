@@ -3,7 +3,7 @@
 <h6><i>Creating a simple web app that displays information on cryptocurrency coin prices.</i></h6>
 <hr />
 </div>
-![Project Screenshot](/src/assets/project.png)
+[Project Screenshot](/src/assets/project.png)
 # Technologies 
 
  + [NextJs](https://nextjs.org/)
@@ -36,7 +36,7 @@ Vercel was used to deploy the app.
  + [Vercel](https://norebase-task.vercel.app/)
 
 # License
-The MIT License - Copyright (c) 2024 - Present, itsadaeze / Storage Service.
+The MIT License - Copyright (c) 2024 - Present, itsadaeze 
 
 # Author
 Ugwu Adaeze (Software Developer)
