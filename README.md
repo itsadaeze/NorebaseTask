@@ -3,7 +3,9 @@
 <h6><i>Creating a simple web app that displays information on cryptocurrency coin prices.</i></h6>
 <hr />
 </div>
-[Project Screenshot](/src/assets/project.png)
+![Project Screenshot](/assets/project.png)
+
+<br/>
 # Technologies 
 
  + [NextJs](https://nextjs.org/)
