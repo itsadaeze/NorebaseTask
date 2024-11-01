@@ -1,9 +1,13 @@
+import projectImage from '../src/assets/project.png';
+
+
+
 <div align="center">
 <h1>Norebase Task</h1>
 <h6><i>Creating a simple web app that displays information on cryptocurrency coin prices.</i></h6>
 <hr />
 </div>
-![Project Screenshot](/src/assets/project.png)
+<img src={projectImage} alt="Project Screenshot" />
 
 <br/>
 # Technologies 
@@ -15,8 +19,7 @@
 
 
 
-# Prototype
-![Minion](/src/assets/project.png)
+
  
 # How to Contribute
 
